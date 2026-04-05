@@ -20,7 +20,7 @@ An interactive **Streamlit web application** that calculates student performance
 
 ## 🖥️ Demo
 
-👉 Live App: student-result-app-hddkzuqzp427crdorzep2r.streamlit.app
+👉 Live App: [student-result-app-hddkzuqzp427crdorzep2r.streamlit.app](https://student-result-app-hddkzuqzp427crdorzep2r.streamlit.app/)
 
 ---
 
