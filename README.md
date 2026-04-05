@@ -88,12 +88,6 @@ This app uses AI to:
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots here after running your app)*
-
----
-
 ## 🌐 Deployment
 
 Deployed using **Streamlit Community Cloud**
